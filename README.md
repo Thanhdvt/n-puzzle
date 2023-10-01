@@ -52,6 +52,8 @@ dotnet run
 ## AI Algorithms
 The project includes basic AI algorithms for solving the N-Puzzle:
 
+* `BFS* Search Algorithm`
+* `DFS* Search Algorithm`
 * `A* Search Algorithm`
 You can explore and extend these algorithms in the source code.
 
